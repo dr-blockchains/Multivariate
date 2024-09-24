@@ -1,2 +1,2 @@
 # Multivariate
-R Codes for Examples in ML and Econometrics 
+Public R Codes for Examples in Machine Learning and Econometrics 
